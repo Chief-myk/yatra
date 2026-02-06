@@ -6,7 +6,7 @@ import PassengerDetails from './pages/PassengerDetails';
 import SeatSelection from './pages/SeatSelection';
 import BoardingPass from './pages/BoardingPass';
 import SelfCheckin from './pages/SelfCheckin';
-import Dashboard from './pages/Dashboard';
+import Dashboard from './pages/DashBoard';
 
 const App = () => {
   // Helper function to get current step based on route
